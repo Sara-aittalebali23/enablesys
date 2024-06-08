@@ -1,0 +1,11 @@
+
+.App{
+  min-height: 100vh;
+}
+
+/* WebKit browsers */
+::-webkit-scrollbar {
+  display: none;
+}
+
+

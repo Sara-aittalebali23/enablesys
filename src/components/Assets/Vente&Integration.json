@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "Titre":"Sonorisation professionnelle",
+        "discription":"Enablesys offre des solutions de sonorisation professionnelles garantissant une qualité audio optimale lors de vos divers événements. Nous mettons à disposition une gamme d'équipements de pointe ainsi que des systèmes sonores adaptés à chaque contexte, que ce soit pour des conférences, des concerts, des présentations ou tout autre type d'événement.",
+        "image":"./src/components/Assets/image1.avif"
+    },
+    {
+        "id":2,
+        "Titre":"Affichage dynamique",
+        "discription":"Notre solution d'affichage dynamique vous offre la possibilité de diffuser des contenus visuels captivants et pertinents lors de vos événements. Nous mettons à votre disposition des écrans haute résolution et des outils de diffusion de contenus pour engager votre audience et communiquer votre message de manière efficace.",
+        "image":"./image1.avif"
+    },
+    {
+        "id":3,
+        "Titre":"Ecran interactif",
+        "discription":"Avec nos écrans interactifs, vous pouvez dynamiser vos présentations et sessions de formation en les rendant plus engageantes et interactives. Ces écrans tactiles facilitent la collaboration, le partage d'informations et l'interaction avec votre public de manière intuitive et dynamique.",
+        "image":"../../components/Assets/image1.avif"
+    },
+    {
+        "id":4,
+        "Titre":"Reseau informatique & precablage",
+        "discription":"Nous offrons des solutions de réseau informatique et de précâblage qui garantissent une connectivité fiable et sans accroc lors de vos événements. Notre équipe de professionnels se charge de l'installation et de la configuration des infrastructures réseau indispensables, vous permettant ainsi de profiter d'une communication fluide et d'un accès aux données efficace.",
+        "image":"../../components/Assets/image1.avif"
+    },
+    {
+        "id":5,
+        "Titre":"Solution de streaming & KVM",
+        "discription":"Les solutions d'Enablesys englobent des outils de streaming et de commutation KVM (Keyboard, Video, Mouse), conçus pour simplifier la diffusion en direct de vos événements et la gestion à distance de vos systèmes. Nos technologies avancées vous permettent de diffuser votre contenu en temps réel sur une multitude de plateformes, tout en assurant une gestion efficace de vos équipements, où que vous soyez.",
+        "image":"../../components/Assets/image1.avif"
+    },
+    {
+        "id":6,
+        "Titre":"Affichage grande format",
+        "discription":"Nous offrons des solutions d'affichage grand format conçues pour générer des expériences visuelles immersives lors de vos événements. Que vous recherchiez des projections panoramiques, des murs vidéo LED ou des écrans géants, notre gamme sur mesure de solutions d'affichage est conçue pour captiver votre public et sublimer vos contenus.",
+        "image":"../../components/Assets/image1.avif"
+    }
+]

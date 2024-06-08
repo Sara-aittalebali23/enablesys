@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "Titre":"Sonorisation",
+        "discription":"Enablesys offre des services de sonorisation professionnelle adaptés à une variété d'événements. Grâce à notre gamme d'équipements haut de gamme et à notre équipe de techniciens chevronnés, nous nous engageons à offrir une expérience auditive exceptionnelle à nos clients."
+    },
+    {
+        "id":2,
+        "Titre":"Systeme de conference",
+        "discription":"Nos systèmes de conférence avancés simplifient les interactions lors de vos réunions et événements professionnels, en offrant des équipements de pointe garantissant une communication claire et efficace."
+    },
+    {
+        "id":3,
+        "Titre":"Projection & Ecran LED",
+        "discription":"Enablesys offre des solutions de pointe pour des présentations, des projections vidéo et des affichages dynamiques impressionnants. Nous proposons des services de projection et d'écran LED haut de gamme, soutenus par des équipements performants et une expertise solide en installation."
+    },
+    {
+        "id":4,
+        "Titre":"Eclairage",
+        "discription":"Nos services d'éclairage professionnel subliment vos événements en instaurant des atmosphères uniques. Grâce à des designs lumineux captivants et à l'utilisation d'équipements de pointe, nous créons des effets visuels époustouflants qui marqueront les esprits."
+    },
+    {
+        "id":5,
+        "Titre":"Scene & structure",
+        "discription":"Enablesys offre une gamme de services dédiés à la mise en scène et à la conception structurelle, afin de transformer vos événements en expériences mémorables. Que ce soit pour des spectacles, des concerts ou des présentations, nous vous proposons des solutions complètes comprenant des structures robustes et des éléments de scène professionnels, adaptés à vos besoins spécifiques, et ce, pour créer un environnement parfaitement adapté à votre vision."
+    },
+    {
+        "id":6,
+        "Titre":"Systeme de visioconference",
+        "discription":"Nos solutions de visioconférence offrent une plateforme efficace et interactive pour communiquer avec des participants distants. Dotées d'équipements de haute qualité et d'une connectivité fiable, elles permettent d'organiser des réunions virtuelles sans compromis sur la qualité audio et vidéo."
+    }
+]
